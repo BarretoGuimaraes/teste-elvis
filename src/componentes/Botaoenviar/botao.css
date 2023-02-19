@@ -1,0 +1,17 @@
+.Botaox {
+    background-color: rgb(161, 22, 22);
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    margin: 16px 0;
+}
+
+.Botaox:hover{
+
+    background-color: #f6eb7f;
+    color: #9b691f
+}
